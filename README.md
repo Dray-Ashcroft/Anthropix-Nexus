@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Human EvoGen Mapper — Human Evolution & Phylogenetic Mapping" width="100%">
+  <img src="assets/banner.png" alt="Human EvoGen Mapper — Evolutionary Reconstruction & Phylogenetic Mapper" width="100%">
 </p>🧬 Human EvoGen Mapper
 
 Evolutionary Reconstruction & Phylogenetic Mapper
 
-Explore human evolution through anatomical reconstructions, skull morphology, and evolutionary relationships.
+«Human EvoGen Mapper is an interactive evolutionary visualization exploring human origins, anatomical reconstructions, skull morphology, and phylogenetic relationships across hominin evolution.»
 
 🧬 Human Evolution · 🔬 Skull Morphology · 🌳 Phylogeny
 
@@ -15,56 +15,40 @@ Explore human evolution through anatomical reconstructions, skull morphology, an
 ✦ Features
 
 🧍 Reconstruction Profiles
-
-- Full-body evolutionary reconstructions
-- Anatomical features and body proportions
-- Habitat and evolutionary timelines
+Explore full-body reconstructions and anatomical characteristics.
 
 🔬 Skull Profiles
-
-- Realistic skull reconstructions
-- Cranial morphology and brain capacity
-- Distinguishing anatomical characters
+Examine cranial morphology, brain capacity, and distinguishing features.
 
 🧬 Organism Profiles
-
-- Scientific and common names
-- Taxonomic classification
-- Diet, habitat, and distinguishing traits
+Explore scientific names, classification, diet, habitat, and anatomical traits.
 
 ⏳ Evolutionary Timelines
-
-- Geological time ranges
-- Approximate species lifespans
-- Chronological exploration
+Explore geological time ranges and approximate species lifespans.
 
 🌳 Phylogenetic Mapping
-
-- Evolutionary relationships and branching lineages
-- Solid and dotted evolutionary connections
-- Distinction between established and uncertain ancestry
+Visualize branching evolutionary relationships, including uncertain ancestral connections.
 
 ---
 
 🧬 Evolutionary Scope
 
-Miocene Apes → Early Hominins → Australopithecines → Early Homo → Archaic Humans → Modern Homo sapiens
-
-Includes extinct hominins, related human lineages, and extant humans.
+Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Humans · Modern Homo sapiens
 
 ---
 
 🧬 Core Concepts
 
-Human Evolution · Hominins · Paleoanthropology · Skull Morphology · Anatomical Reconstruction · Phylogeny · Cladistics
+Human Evolution · Paleoanthropology · Anatomical Reconstruction · Skull Morphology · Phylogeny · Cladistics
 
 ---
 
 ⚙️ Technology
 
-- Frontend: HTML · CSS · JavaScript
-- Database & Assets: GitHub · Codeberg
-- Hosting: Cloudflare Workers
+HTML · CSS · JavaScript
+
+Database & Assets: GitHub & Codeberg
+Hosting: Cloudflare Workers
 
 ---
 
