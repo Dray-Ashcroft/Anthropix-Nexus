@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/repo-banner.png" alt="Human EvoGen Mapper — Human Evolution & Phylogenetic Mapping" width="100%">
+  <img src="assets/banner.png" alt="Human EvoGen Mapper — Human Evolution & Phylogenetic Mapping" width="100%">
 </p>🧬 Human EvoGen Mapper
 
 Evolutionary Reconstruction & Phylogenetic Mapper
