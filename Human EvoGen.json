@@ -1,0 +1,328 @@
+{
+  "markers": [
+    {
+      "age": 23,
+      "x": 25
+    },
+    {
+      "age": 5.3,
+      "x": 420
+    },
+    {
+      "age": 2.6,
+      "x": 700
+    },
+    {
+      "age": 0,
+      "x": 980
+    }
+  ],
+  "periods": [
+    {
+      "name": "Miocene",
+      "start": 23,
+      "end": 5.3,
+      "xOffset": 0
+    },
+    {
+      "name": "Pliocene",
+      "start": 5.3,
+      "end": 2.6,
+      "xOffset": 0
+    },
+    {
+      "name": "Pleistocene / Holocene",
+      "start": 2.6,
+      "end": 0,
+      "xOffset": 0
+    }
+  ],
+  "nodes": [
+    {
+      "id": "root",
+      "label": "Myocine Ape",
+      "mya": 15,
+      "x": null,
+      "y": 296,
+      "isRoot": true,
+      "extinct": true,
+      "labelYOffset": 20,
+      "labelXOffset": -40,
+      "profile": {
+        "scientificName": "Myocene Ape (Fossil Based AI Reconstruction)",
+        "commonName": "Myocine Apes ",
+        "taxonomicClassification": "Hominoiidea ",
+        "geologicalAge": "15 MYA",
+        "habitat": "Forests, Woodlands ",
+        "diet": "Frugivorous ",
+        "distinguishingFeatures": "• Grasping hands and feet adapted for climbing.\n• No external tail, unlike most monkeys.\n• Flexible shoulders and limbs suited to arboreal movement.",
+        "status": "extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20Ape.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20ape.png"
+        ],
+        "ancestor": "Other Myocine apes ",
+        "extinctionMya": 0
+      }
+    },
+    {
+      "id": "hom_spawn_1792036943759",
+      "label": "Dryopithecus",
+      "mya": 12.5,
+      "x": null,
+      "y": 342,
+      "extinct": true,
+      "labelYOffset": 0,
+      "labelXOffset": 5,
+      "profile": {
+        "scientificName": "𝘋𝘳𝘺𝘰𝘱𝘪𝘵𝘩𝘦𝘤𝘶𝘴 sp.",
+        "commonName": "Fossil Ape",
+        "taxonomicClassification": "Order: Primates, Family: Hominoidae",
+        "geologicalAge": "12.5 MYA",
+        "habitat": "Seasonal subtropical forests (Europe)",
+        "diet": "Frugivorous (Fruit Eating)",
+        "distinguishingFeatures": "• Long arms and powerful hands suited for climbing and \n• Ape-like face and teeth\n• May have Quadrupedal movement. ",
+        "status": "extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Dryopithecus/Dryopithecus.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Dryopithecus/Dryopithecus%20(Skull).png"
+        ],
+        "extinctionMya": 9.5,
+        "ancestor": ""
+      }
+    },
+    {
+      "id": "hom_spawn_1792036993860",
+      "label": "Sivapithecus",
+      "mya": 12.7,
+      "x": null,
+      "y": 223,
+      "extinct": true,
+      "labelYOffset": 0,
+      "labelXOffset": 5,
+      "profile": {
+        "scientificName": "𝘚𝘪𝘷𝘢𝘱𝘪𝘵𝘩𝘦𝘤𝘩𝘶𝘴 sp.",
+        "commonName": "Orangutan-like fossil ape* ",
+        "taxonomicClassification": "Order: Primates , Family: Hominoidae, Sub Family: Ponginae",
+        "geologicalAge": "12.7 MYA",
+        "habitat": "Forested environments",
+        "diet": "Frugivorous",
+        "distinguishingFeatures": "• Orangutan-like facial structure.\n• Powerful Jaws, thick molar enamel.\n• Limbs and body adapted for climbing.",
+        "status": "extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Sivapithechus/Sivapithecus.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Sivapithechus/Sivapithechus%20(Skull).png"
+        ],
+        "extinctionMya": 8.5,
+        "ancestor": "Orangutan evolutionary lineage"
+      }
+    },
+    {
+      "id": "hom_spawn_1792037107508",
+      "label": "Early Hominin Broad Lineage",
+      "mya": 7,
+      "x": null,
+      "y": 328,
+      "extinct": true,
+      "labelYOffset": 15,
+      "labelXOffset": -22,
+      "profile": {
+        "scientificName": "  Early Hominins ",
+        "commonName": "Toumai, Ardi",
+        "taxonomicClassification": "Order: Primates, Family: Hominoidae",
+        "geologicalAge": "7 MYA",
+        "habitat": "Forests, Woodlands ",
+        "diet": "Omnivorous ",
+        "distinguishingFeatures": "• Small brain \n• Reduced canine teeth\n• Evidence of early bipedalism.",
+        "status": "extant_extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20homonin.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20Homonin(Skull).png"
+        ],
+        "extinctionMya": 0,
+        "ancestor": "Miocene Ape\n(Distant Ancestor)"
+      }
+    },
+    {
+      "id": "hom_spawn_1792040217124",
+      "label": "Australopithecus",
+      "mya": 4.2,
+      "x": null,
+      "y": 293,
+      "extinct": true,
+      "labelYOffset": 0,
+      "labelXOffset": 0,
+      "profile": {
+        "scientificName": "𝘈𝘶𝘴𝘵𝘳𝘢𝘭𝘰𝘱𝘪𝘵𝘩𝘦𝘤𝘶𝘴 sp.",
+        "commonName": "Southern ape",
+        "taxonomicClassification": "Order: Primates, Family: Hominoidae",
+        "geologicalAge": "4.2 MYA",
+        "habitat": "Woodlands, \nOpen grasslands",
+        "diet": "Omnivorous",
+        "distinguishingFeatures": "• Habitual bipedalism\n• Small brain (400–550 cc)\n• Long arms and curved fingers",
+        "status": "extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Australopithecus/Australopithecus.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Australopithecus/Australopithicus%20Skull.png"
+        ],
+        "extinctionMya": 2,
+        "ancestor": ""
+      }
+    },
+    {
+      "id": "hom_spawn_1792040248110",
+      "label": "Homo habilis",
+      "mya": 2.4,
+      "x": null,
+      "y": 388,
+      "extinct": true,
+      "labelYOffset": -13,
+      "labelXOffset": 0,
+      "profile": {
+        "scientificName": " 𝘏𝘰𝘮𝘰 𝘩𝘢𝘣𝘪𝘭𝘪𝘴",
+        "commonName": "Handy man",
+        "taxonomicClassification": "Order: Primates, Family: Hominoidae ",
+        "geologicalAge": "2.4 MYA",
+        "habitat": "Open woodlands Grasslands",
+        "diet": "Omnivorous",
+        "distinguishingFeatures": "• Larger brain than australopithecines\n• Small face and teeth\n• Associated with early stone tools",
+        "status": "extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20Habilis/Homo%20Habilis.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20Habilis/Homo%20Habilis%20(Skull).png"
+        ],
+        "extinctionMya": 1.4,
+        "ancestor": " Australopithecus "
+      }
+    },
+    {
+      "id": "hom_spawn_1792040343893",
+      "label": "Homo erectus",
+      "mya": 1.9,
+      "x": null,
+      "y": 446,
+      "extinct": true,
+      "labelYOffset": 13,
+      "labelXOffset": -12,
+      "profile": {
+        "scientificName": " 𝘏𝘰𝘮𝘰 𝘦𝘳𝘦𝘤𝘵𝘶𝘴 ",
+        "commonName": "Upright man",
+        "taxonomicClassification": "Order: Primates, Family: Hominoidae, ",
+        "geologicalAge": "1.9 MYA",
+        "habitat": "Grasslands, Woodlands \nOpen habitats",
+        "diet": "Omnivorous",
+        "distinguishingFeatures": "• Fully upright body proportions\n• Long, low skull (600–1,100 cc)\n• Thick cranial bones and prominent brow ridges",
+        "status": "extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20erectus/Homo%20Erectus%20.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20erectus/Homo.erectus%20(Skull).png"
+        ],
+        "extinctionMya": 0,
+        "ancestor": ""
+      }
+    },
+    {
+      "id": "hom_spawn_1792040481584",
+      "label": "Homo neanderthalensis",
+      "mya": 0.4,
+      "x": null,
+      "y": 419,
+      "extinct": true,
+      "labelYOffset": -16,
+      "labelXOffset": -23,
+      "profile": {
+        "scientificName": " 𝘏𝘰𝘮𝘰 𝘯𝘦𝘢𝘯𝘥𝘦𝘳𝘵𝘩𝘢𝘯𝘭𝘦𝘯𝘴𝘪𝘴 ",
+        "commonName": "Neanderthal",
+        "taxonomicClassification": "Order: Primates, Family: Hominoidae",
+        "geologicalAge": "0.4 MYA",
+        "habitat": "Woodlands,\nOpen landscapes Cold environments",
+        "diet": "Omnivorous",
+        "distinguishingFeatures": "• Robust body, Large nasal aperture\n• Prominent brow ridges\n• Long, low skull with an occipital bun\n• Brain size 1,200–1,750 cc, \n",
+        "status": "extinct",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis%20(Skull).png"
+        ],
+        "extinctionMya": 0.04,
+        "ancestor": ""
+      }
+    },
+    {
+      "id": "hom_spawn_1792040594423",
+      "label": "Homo sapiens",
+      "mya": 0.3,
+      "x": null,
+      "y": 467,
+      "extinct": false,
+      "labelYOffset": 0,
+      "labelXOffset": 0,
+      "profile": {
+        "scientificName": " 𝘏𝘰𝘮𝘰 𝘴𝘢𝘱𝘪𝘦𝘯𝘴 ",
+        "commonName": "Modern Human",
+        "taxonomicClassification": "Order: Primates, Family: Hominoidae ",
+        "geologicalAge": "0.3 MYA",
+        "habitat": "Global,\nAll terrestrial Environments",
+        "diet": "Omnivorous",
+        "distinguishingFeatures": "• High, rounded skull (1,200–1,600 cc)\n• Prominent chin\n• Reduced brow ridges",
+        "status": "living",
+        "emoji": "🦍",
+        "images": [
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20sapiens/Homo%20sapiens.png",
+          "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20sapiens/Homo%20sapiens%20(Skull).png"
+        ],
+        "extinctionMya": 0,
+        "ancestor": "Neanderthal"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "parent": "root",
+      "child": "hom_spawn_1792036943759",
+      "style": "dotted"
+    },
+    {
+      "parent": "root",
+      "child": "hom_spawn_1792036993860",
+      "style": "dotted"
+    },
+    {
+      "parent": "root",
+      "child": "hom_spawn_1792037107508",
+      "style": "dotted"
+    },
+    {
+      "parent": "hom_spawn_1792037107508",
+      "child": "hom_spawn_1792040217124",
+      "style": "dotted"
+    },
+    {
+      "parent": "hom_spawn_1792037107508",
+      "child": "hom_spawn_1792040248110",
+      "style": "dotted"
+    },
+    {
+      "parent": "hom_spawn_1792040248110",
+      "child": "hom_spawn_1792040343893",
+      "style": "dotted"
+    },
+    {
+      "parent": "hom_spawn_1792040343893",
+      "child": "hom_spawn_1792040481584",
+      "style": "dotted"
+    },
+    {
+      "parent": "hom_spawn_1792040343893",
+      "child": "hom_spawn_1792040594423",
+      "style": "dotted"
+    }
+  ]
+}
