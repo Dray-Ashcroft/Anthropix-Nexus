@@ -1,69 +1,65 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Human EvoGen Mapper — Human Evolution & Phylogenetic Mapping" width="100%">
-</p>🧬 Human EvoGen Mapper
+  <img src="assets/banner.png" alt="Human EvoGen Mapper — Phylogenetic Mapping" width="100%">
+</p>
 
-Evolutionary Reconstruction & Phylogenetic Mapper
+# 🧬 Human EvoGen Mapper
 
-«Human EvoGen Mapper is an interactive evolutionary visualization exploring human origins through anatomical reconstructions, skull morphology, evolutionary timelines, and phylogenetic relationships.»
+### *Evolutionary Reconstruction & Phylogenetic Mapper*
 
-🧬 Human Evolution · 🔬 Skull Morphology · 🌳 Phylogeny
+> **Human EvoGen Mapper** is an interactive visualization exploring human evolution through anatomical reconstructions, skull morphology, evolutionary timelines, and phylogenetic relationships.
 
-🔬 "Explore the Simulation" (https://evo-gen.stark-kodex.workers.dev)
+🧬 **Human Evolution** · 🔬 **Skull Morphology** · 🌳 **Phylogeny**
 
----
-
-✦ Features
-
-🧍 Reconstruction Profiles
-
-- Explore full-body evolutionary reconstructions.
-- Examine anatomical features and body proportions.
-
-🔬 Skull Profiles
-
-- Explore realistic skull reconstructions.
-- Examine cranial morphology, brain capacity, and distinguishing features.
-
-🧬 Organism Profiles
-
-- View scientific and common names.
-- Explore taxonomic classification, diet, habitat, and anatomical traits.
-
-⏳ Evolutionary Timelines
-
-- Explore geological time ranges.
-- Compare approximate species lifespans.
-
-🌳 Phylogenetic Mapping
-
-- Visualize branching evolutionary relationships.
-- Distinguish established relationships from uncertain ancestral connections.
-- Explore solid and dotted evolutionary connections.
+**🔬 [Explore the Simulation](https://evo-gen.stark-kodex.workers.dev)**
 
 ---
 
-🧬 Evolutionary Scope
+## ✦ Features
 
-Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Humans · Modern Homo sapiens
+**🧍 Reconstruction Profiles**
+
+Explore full-body reconstructions and anatomical characteristics.
+
+**🔬 Skull Profiles**
+
+Examine cranial morphology, brain capacity, and distinguishing features.
+
+**🧬 Organism Profiles**
+
+Explore scientific names, taxonomic classification, diet, habitat, and anatomical traits.
+
+**⏳ Evolutionary Timelines**
+
+Explore geological time ranges and approximate species lifespans.
+
+**🌳 Phylogenetic Mapping**
+
+Visualize branching evolutionary relationships and distinguish established connections from uncertain ancestry.
 
 ---
 
-🧬 Core Concepts
+## 🧬 Evolutionary Scope
 
-Human Evolution · Paleoanthropology · Anatomical Reconstruction · Skull Morphology · Phylogeny · Cladistics
-
----
-
-⚙️ Technology
-
-HTML · CSS · JavaScript
-
-Database & Assets: GitHub & Codeberg
-
-Hosting: Cloudflare Workers
+**Miocene Apes · Early Hominins · Australopithecines · Early *Homo* · Archaic Humans · Modern *Homo sapiens***
 
 ---
 
-📜 License
+## 🧬 Core Concepts
 
-Distributed under the GNU General Public License v3.0 (GPL-3.0).
+**Human Evolution · Paleoanthropology · Anatomical Reconstruction · Skull Morphology · Phylogeny · Cladistics**
+
+---
+
+## ⚙️ Technology
+
+**HTML · CSS · JavaScript**
+
+**Database & Assets:** GitHub & Codeberg
+
+**Hosting:** Cloudflare Workers
+
+---
+
+## 📜 License
+
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
