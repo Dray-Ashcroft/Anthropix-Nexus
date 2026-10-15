@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Human EvoGen Mapper — Evolutionary Reconstruction & Phylogenetic Mapper" width="100%">
+  <img src="assets/repo-banner.png" alt="Human EvoGen Mapper — Human Evolution & Phylogenetic Mapping" width="100%">
 </p>🧬 Human EvoGen Mapper
 
 Evolutionary Reconstruction & Phylogenetic Mapper
 
-«Human EvoGen Mapper is an interactive evolutionary visualization exploring human origins, anatomical reconstructions, skull morphology, and phylogenetic relationships across hominin evolution.»
+«Human EvoGen Mapper is an interactive evolutionary visualization exploring human origins through anatomical reconstructions, skull morphology, evolutionary timelines, and phylogenetic relationships.»
 
 🧬 Human Evolution · 🔬 Skull Morphology · 🌳 Phylogeny
 
@@ -15,19 +15,30 @@ Evolutionary Reconstruction & Phylogenetic Mapper
 ✦ Features
 
 🧍 Reconstruction Profiles
-Explore full-body reconstructions and anatomical characteristics.
+
+- Explore full-body evolutionary reconstructions.
+- Examine anatomical features and body proportions.
 
 🔬 Skull Profiles
-Examine cranial morphology, brain capacity, and distinguishing features.
+
+- Explore realistic skull reconstructions.
+- Examine cranial morphology, brain capacity, and distinguishing features.
 
 🧬 Organism Profiles
-Explore scientific names, classification, diet, habitat, and anatomical traits.
+
+- View scientific and common names.
+- Explore taxonomic classification, diet, habitat, and anatomical traits.
 
 ⏳ Evolutionary Timelines
-Explore geological time ranges and approximate species lifespans.
+
+- Explore geological time ranges.
+- Compare approximate species lifespans.
 
 🌳 Phylogenetic Mapping
-Visualize branching evolutionary relationships, including uncertain ancestral connections.
+
+- Visualize branching evolutionary relationships.
+- Distinguish established relationships from uncertain ancestral connections.
+- Explore solid and dotted evolutionary connections.
 
 ---
 
@@ -48,6 +59,7 @@ Human Evolution · Paleoanthropology · Anatomical Reconstruction · Skull Morph
 HTML · CSS · JavaScript
 
 Database & Assets: GitHub & Codeberg
+
 Hosting: Cloudflare Workers
 
 ---
