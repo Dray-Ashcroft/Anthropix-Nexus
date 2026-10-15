@@ -10,7 +10,7 @@
 
 🧬 **Human Evolution** · 🔬 **Skull Morphology** · 🌳 **Phylogeny**
 
-**🔬 [Explore the Simulation](https://hominid-evogen.stark-kodex.workers.dev)**
+**🔬 [Explore the Simulation](https://anthropix-nexus.stark-kodex.workers.dev)**
 
 ---
 
