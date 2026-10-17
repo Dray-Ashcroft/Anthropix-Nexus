@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Human EvoGen Mapper — Phylogenetic Mapping" width="100%">
 </p>
 
-# 🧬 Human EvoGen Mapper
+# 🧬 Anthropix Nexus 
 
 ### *Evolutionary Reconstruction & Phylogenetic Mapper*
 
