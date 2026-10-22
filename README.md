@@ -12,23 +12,23 @@
 
 🔸Anthropix Nexus
 
-"Anthropix" (screenshots/Anthropix.png)
+"Anthropix" (assets/screenshots/Anthropix.png)
 
 🔸Developer Mode
 
-"Development Mode" (screenshots/Dev.%20Mode%20Integrated.png)
+"Development Mode" (assets/screenshots/Dev.%20Mode%20Integrated.png)
 
 🔸Profile Cards
 
-"Profile Cards" (screenshots/Profile%20Cards.png)
+"Profile Cards" (assets/screenshots/Profile%20Cards.png)
 
 🔸Smooth Navigation
 
-"Smooth Navigation" (screenshots/Smooth%20Navigation.png)
+"Smooth Navigation" (assets/screenshots/Smooth%20Navigation.png)
 
 🔸Tab Switcher
 
-"Tab Switcher" (screenshots/Tab%20Switcher.png)
+"Tab Switcher" (assets/screenshots/Tab%20Switcher.png)
 
 ---
 
