@@ -7,21 +7,20 @@
 
 ---
 
-📸 Screenshots
+📸 **Screenshots**
 
-"Anthropix Nexus" (./assets/screenshots/Anthropix.png)
+![Anthropix Nexus](assets/screenshots/Anthropix.png)
 
-"Developer Mode" (./assets/screenshots/Dev. Mode Integrated.png)
+![Development Mode](assets/screenshots/Dev.%20Mode%20Integrated.png)
 
-"Profile Cards" (./assets/screenshots/Profile Cards.png)
+![Profile Cards](assets/screenshots/Profile%20Cards.png)
 
-"Smooth Navigation" (./assets/screenshots/Smooth Navigation.png)
+![Smooth Navigation](assets/screenshots/Smooth%20Navigation.png)
 
-"Tab Switcher" (./assets/screenshots/Tab Switcher.png)
-
+![Tab Switcher](assets/screenshots/Tab%20Switcher.png)
 ---
 
-✨ Features
+✨ **Features**
 
 - 🧍 Anatomical reconstructions
 - 💀 Skull morphology and brain capacity
@@ -33,13 +32,13 @@
 
 ---
 
-🧬 Evolutionary Scope
+🧬 **Evolutionary Scope**
 
 Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Humans · Modern Homo sapiens
 
 ---
 
-⚙️ Technology
+⚙️ **Technology**
 
 - Frontend: HTML, CSS, JavaScript
 - Database & Assets: GitHub, Codeberg
@@ -47,12 +46,12 @@ Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Hu
 
 ---
 
-🚀 Live Application
+🚀 **Live Application**
 
 "Launch Anthropix Nexus" (https://anthropix-nexus.stark-kodex.workers.dev)
 
 ---
 
-📜 License
+📜 **License**
 
 Licensed under the GNU General Public License v3.0 (GPL-3.0).
