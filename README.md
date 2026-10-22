@@ -1,65 +1,64 @@
 <p align="center">
-  <img src="assets/banner/banner.png" alt="Human EvoGen Mapper — Phylogenetic Mapping" width="100%">
+  <img src="assets/banner/banner.png" alt="Anthropix Nexus" width="100%">
+</p><h1 align="center">🧬 Anthropix Nexus</h1><h3 align="center">Evolutionary Reconstruction & Phylogenetic Mapper</h3><p align="center">
+  An interactive exploration of human evolution, anatomy, and phylogenetic relationships.
+</p><p align="center">
+  <a href="https://anthropix-nexus.stark-kodex.workers.dev"><strong>🔬 Explore the Simulation</strong></a>
 </p>
 
-# 🧬 Anthropix Nexus 
+---
 
-### *Evolutionary Reconstruction & Phylogenetic Mapper*
+📸**Screenshots**
 
-> **Human EvoGen Mapper** is an interactive visualization exploring human evolution through anatomical reconstructions, skull morphology, evolutionary timelines, and phylogenetic relationships.
+🔸Anthropix Nexus
 
-🧬 **Human Evolution** · 🔬 **Skull Morphology** · 🌳 **Phylogeny**
+"Anthropix" (screenshots/Anthropix.png)
 
-**🔬 [Explore the Simulation](https://anthropix-nexus.stark-kodex.workers.dev)**
+🔸Developer Mode
+
+"Development Mode" (screenshots/Dev.%20Mode%20Integrated.png)
+
+🔸Profile Cards
+
+"Profile Cards" (screenshots/Profile%20Cards.png)
+
+🔸Smooth Navigation
+
+"Smooth Navigation" (screenshots/Smooth%20Navigation.png)
+
+🔸Tab Switcher
+
+"Tab Switcher" (screenshots/Tab%20Switcher.png)
 
 ---
 
-## ✦ Features
+✨ **Features**
 
-**🧍 Reconstruction Profiles**
-
-Explore full-body reconstructions and anatomical characteristics.
-
-**🔬 Skull Profiles**
-
-Examine cranial morphology, brain capacity, and distinguishing features.
-
-**🧬 Organism Profiles**
-
-Explore scientific names, taxonomic classification, diet, habitat, and anatomical traits.
-
-**⏳ Evolutionary Timelines**
-
-Explore geological time ranges and approximate species lifespans.
-
-**🌳 Phylogenetic Mapping**
-
-Visualize branching evolutionary relationships and distinguish established connections from uncertain ancestry.
+- 🧍 Anatomical reconstructions
+- 💀 Skull morphology and brain capacity
+- 🧬 Organism profiles and taxonomy
+- ⏳ Evolutionary timelines
+- 🌳 Phylogenetic mapping
+- 🧭 Interactive navigation
 
 ---
 
-## 🧬 Evolutionary Scope
+🧬 **Evolutionary Scope**
 
-**Miocene Apes · Early Hominins · Australopithecines · Early *Homo* · Archaic Humans · Modern *Homo sapiens***
-
----
-
-## 🧬 Core Concepts
-
-**Human Evolution · Paleoanthropology · Anatomical Reconstruction · Skull Morphology · Phylogeny · Cladistics**
+Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Humans · Modern Homo sapiens
 
 ---
 
-## ⚙️ Technology
+⚙️ **Technology**
 
-**HTML · CSS · JavaScript**
+Frontend: HTML · CSS · JavaScript
 
-**Database & Assets:** GitHub & Codeberg
+Assets: GitHub · Codeberg
 
-**Hosting:** Cloudflare Workers
+Hosting: Cloudflare Workers
 
 ---
 
-## 📜 License
+📜 **License**
 
-Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
+"GNU General Public License v3.0" (https://www.gnu.org/licenses/gpl-3.0.en.html)
