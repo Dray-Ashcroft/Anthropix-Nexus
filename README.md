@@ -1,32 +1,23 @@
 <p align="center">
-  <img src="assets/banner/banner.png" alt="Anthropix Nexus" width="100%">
+  <img src="assets/banner/banner.png" alt="Anthropix Nexus — Human Evolution Mapper" width="100%">
 </p><h1 align="center">🧬 Anthropix Nexus</h1><h3 align="center">Evolutionary Reconstruction & Phylogenetic Mapper</h3><p align="center">
-  An interactive exploration of human evolution, anatomy, and phylogenetic relationships.
+  An interactive exploration of human evolution, anatomical reconstruction, and phylogenetic relationships.
 </p><p align="center">
-  <a href="https://anthropix-nexus.stark-kodex.workers.dev"><strong>🔬 Explore the Simulation</strong></a>
-</p>---
+</p>
+
+---
 
 📸 Screenshots
 
-Anthropix Nexus
+"Anthropix Nexus" (./assets/screenshots/Anthropix.png)
 
-"Anthropix" (screenshots/Anthropix.png)
+"Developer Mode" (./assets/screenshots/Dev. Mode Integrated.png)
 
-Development Mode
+"Profile Cards" (./assets/screenshots/Profile Cards.png)
 
-"Development Mode" (screenshots/Dev.%20Mode%20Integrated.png)
+"Smooth Navigation" (./assets/screenshots/Smooth Navigation.png)
 
-Profile Cards
-
-"Profile Cards" (screenshots/Profile%20Cards.png)
-
-Smooth Navigation
-
-"Smooth Navigation" (screenshots/Smooth%20Navigation.png)
-
-Tab Switcher
-
-"Tab Switcher" (screenshots/Tab%20Switcher.png)
+"Tab Switcher" (./assets/screenshots/Tab Switcher.png)
 
 ---
 
@@ -37,7 +28,8 @@ Tab Switcher
 - 🧬 Organism profiles and taxonomy
 - ⏳ Evolutionary timelines
 - 🌳 Phylogenetic mapping
-- 🧭 Interactive navigation
+- ⚙️ Integrated development mode
+- 🧭 Smooth navigation and tab switching
 
 ---
 
@@ -49,14 +41,18 @@ Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Hu
 
 ⚙️ Technology
 
-Frontend: HTML · CSS · JavaScript
+- Frontend: HTML, CSS, JavaScript
+- Database & Assets: GitHub, Codeberg
+- Hosting: Cloudflare Workers
 
-Assets: GitHub · Codeberg
+---
 
-Hosting: Cloudflare Workers
+🚀 Live Application
+
+"Launch Anthropix Nexus" (https://anthropix-nexus.stark-kodex.workers.dev)
 
 ---
 
 📜 License
 
-"GNU General Public License v3.0" (https://www.gnu.org/licenses/gpl-3.0.en.html)
+Licensed under the GNU General Public License v3.0 (GPL-3.0).
