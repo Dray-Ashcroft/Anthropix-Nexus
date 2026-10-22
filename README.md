@@ -38,17 +38,24 @@ Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Hu
 
 ---
 
+<p align="center">
+  <em>Dedicated to Lord Vishnu</em>
+</p>
+
+---
+
 ⚙️ **Technology**
 
 - Frontend: HTML, CSS, JavaScript
 - Database & Assets: GitHub, Codeberg
 - Hosting: Cloudflare Workers
 
+
 ---
 
 🚀 **Live Application**
 
-"Launch Anthropix Nexus" (https://anthropix-nexus.stark-kodex.workers.dev)
+["Launch Anthropix Nexus"](https://anthropix-nexus.stark-kodex.workers.dev)
 
 ---
 
