@@ -39,7 +39,7 @@ Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Hu
 ---
 
 <p align="center">
-  <em>Dedicated to Lord Vishnu</em>
+  <em>Project Dedicated to Lord Vishnu</em>
 </p>
 
 ---
