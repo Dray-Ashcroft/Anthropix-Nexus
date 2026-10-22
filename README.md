@@ -4,35 +4,33 @@
   An interactive exploration of human evolution, anatomy, and phylogenetic relationships.
 </p><p align="center">
   <a href="https://anthropix-nexus.stark-kodex.workers.dev"><strong>🔬 Explore the Simulation</strong></a>
-</p>
+</p>---
+
+📸 Screenshots
+
+Anthropix Nexus
+
+"Anthropix" (screenshots/Anthropix.png)
+
+Development Mode
+
+"Development Mode" (screenshots/Dev.%20Mode%20Integrated.png)
+
+Profile Cards
+
+"Profile Cards" (screenshots/Profile%20Cards.png)
+
+Smooth Navigation
+
+"Smooth Navigation" (screenshots/Smooth%20Navigation.png)
+
+Tab Switcher
+
+"Tab Switcher" (screenshots/Tab%20Switcher.png)
 
 ---
 
-📸**Screenshots**
-
-🔸Anthropix Nexus
-
-"Anthropix" (assets/screenshots/Anthropix.png)
-
-🔸Developer Mode
-
-"Development Mode" (assets/screenshots/Dev.%20Mode%20Integrated.png)
-
-🔸Profile Cards
-
-"Profile Cards" (assets/screenshots/Profile%20Cards.png)
-
-🔸Smooth Navigation
-
-"Smooth Navigation" (assets/screenshots/Smooth%20Navigation.png)
-
-🔸Tab Switcher
-
-"Tab Switcher" (assets/screenshots/Tab%20Switcher.png)
-
----
-
-✨ **Features**
+✨ Features
 
 - 🧍 Anatomical reconstructions
 - 💀 Skull morphology and brain capacity
@@ -43,13 +41,13 @@
 
 ---
 
-🧬 **Evolutionary Scope**
+🧬 Evolutionary Scope
 
 Miocene Apes · Early Hominins · Australopithecines · Early Homo · Archaic Humans · Modern Homo sapiens
 
 ---
 
-⚙️ **Technology**
+⚙️ Technology
 
 Frontend: HTML · CSS · JavaScript
 
@@ -59,6 +57,6 @@ Hosting: Cloudflare Workers
 
 ---
 
-📜 **License**
+📜 License
 
 "GNU General Public License v3.0" (https://www.gnu.org/licenses/gpl-3.0.en.html)
