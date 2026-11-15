@@ -1,228 +1,211 @@
 <p align="center">
-  <img src="assets/banner/banner.png" alt="Anthropix Nexus — Human Evolution Mapper" width="100%">
+  <img src="assets/banner/banner.png" alt="Anthropix Nexus — Evolutionary Reconstruction and Phylogenetic Mapper" width="100%">
 </p>
 
-<h1 align="center">🧬 Anthropix Nexus</h1>
+<h1 align="center">Anthropix Nexus</h1>
 
-<p align="center"><em>Evolutionary Reconstruction &amp; Phylogenetic Mapper</em></p>
+<p align="center"><em>Evolutionary Reconstruction and Phylogenetic Mapper</em></p>
 
 <p align="center"><a href="https://anthropix-nexus.stark-kodex.workers.dev"><strong>Explore Human Evolution</strong></a></p>
 
 <p align="center">
-  <a href="#-about">About</a> ·
-  <a href="#-screenshots">Screenshots</a> ·
-  <a href="#-evolutionary-scope">Scope</a> ·
-  <a href="#-reading-the-map">Reading the map</a> ·
-  <a href="#-profile-cards">Profile cards</a> ·
-  <a href="#-navigation">Navigation</a> ·
-  <a href="#-developer-tools">Dev tools</a> ·
-  <a href="#-technology">Technology</a> ·
-  <a href="#-license">License</a>
+  <a href="#about">About</a> ·
+  <a href="#screenshots">Screenshots</a> ·
+  <a href="#lineages">Lineages</a> ·
+  <a href="#controls">Controls</a> ·
+  <a href="#technology">Technology</a> ·
+  <a href="#credits">Credits</a> ·
+  <a href="#license">License</a>
 </p>
-
----
 
 <p align="center"><em>Project dedicated to Lord Vishnu</em></p>
 
 ---
 
-## 📖 About
+## About
 
-An interactive cladogram of the Hominidae, laid out on a geological timeline from the Miocene to the present. Students can:
+An interactive cladogram of the Hominidae on a geological timeline, from the Miocene apes to modern *Homo sapiens*. Students see how the lineages relate, open a profile card for any organism, and trace one organism's line of descent back through the tree.
 
-- **see how the lineages relate**, from the Miocene apes to modern *Homo sapiens*
-- **open a profile card** for any organism, with reconstructions, a skull, diet, habitat and brain size
-- **trace one organism's line of descent** back through the tree
-
-Works on desktop and mobile, in dark and light themes.
+Runs on desktop and mobile, in dark and light themes.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="assets/screenshots/Anthropix.png" alt="Anthropix Nexus main cladogram" width="100%">
-      <br><sub><b>Cladogram &amp; legend</b></sub>
+      <img src="assets/screenshots/Anthropix.png" alt="Cladogram and legend" width="100%">
+      <br><sub><b>1 · Cladogram</b></sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/screenshots/Profile%20Cards.png" alt="Organism profile cards" width="100%">
-      <br><sub><b>Profile cards</b></sub>
+      <img src="assets/screenshots/Profile%20Cards.png" alt="Organism profile card" width="100%">
+      <br><sub><b>2 · Profile Cards</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/screenshots/Tab%20Switcher.png" alt="Tab switcher between the cladogram and profile cards" width="100%">
-      <br><sub><b>Tab switcher</b></sub>
+      <img src="assets/screenshots/Tab%20Switcher.png" alt="Tabs for the cladogram and profile cards" width="100%">
+      <br><sub><b>3 · Tab Switcher</b></sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/screenshots/Smooth%20Navigation.png" alt="Zoom and pan controls" width="100%">
-      <br><sub><b>Smooth navigation</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="assets/screenshots/Dev.%20Mode%20Integrated.png" alt="Integrated developer mode" width="50%">
-      <br><sub><b>Developer mode, built in</b></sub>
+      <img src="assets/screenshots/Dev.%20Mode%20Integrated.png" alt="Developer mode" width="100%">
+      <br><sub><b>4 · Developer Mode</b></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🦴 Evolutionary Scope
+## Lineages
 
-Nine groups, from Miocene apes to modern humans. Ages are the dates shown on the map.
+The timeline runs from 23 Mya to the present across the **Miocene** (23–5.3 Mya), **Pliocene** (5.3–2.6 Mya) and **Pleistocene / Holocene** (2.6 Mya to now).
 
-| Group | Common name | Age | Status |
-|:--|:--|:-:|:--|
-| Miocene Ape | Miocene apes | 15 Mya | † Extinct |
-| *Dryopithecus* | Fossil ape | 12.5 Mya | † Extinct |
-| *Sivapithecus* | Orangutan-like fossil ape | 12.7 Mya | † Extinct |
-| Early Hominin Broad Lineage | Toumai, Ardi | 7 Mya | † + 🟢 Extant + Extinct |
-| *Australopithecus* | Southern ape | 4.2 Mya | † Extinct |
-| *Homo habilis* | Handy man | 2.4 Mya | † Extinct |
-| *Homo erectus* | Upright man | 1.9 Mya | † Extinct |
-| *Homo neanderthalensis* | Neanderthal | 0.4 Mya | † Extinct |
-| *Homo sapiens* | Modern human | 0.3 Mya | 🟢 Extant |
+| Group | Common Name | Age | Status | Branches To |
+|:--|:--|:-:|:--|:--|
+| Miocene Ape | Miocene apes | 15 Mya | Extinct | *Dryopithecus* · *Sivapithecus* · Early Hominin Broad Lineage |
+| *Dryopithecus* | Fossil ape | 12.5 Mya | Extinct | — |
+| *Sivapithecus* | Orangutan-like fossil ape | 12.7 Mya | Extinct | — |
+| Early Hominin Broad Lineage | Toumai, Ardi | 7 Mya | Extant + Extinct | *Australopithecus* · *Homo habilis* |
+| *Australopithecus* | Southern ape | 4.2 Mya | Extinct | — |
+| *Homo habilis* | Handy man | 2.4 Mya | Extinct | *Homo erectus* |
+| *Homo erectus* | Upright man | 1.9 Mya | Extinct | *H. neanderthalensis* · *H. sapiens* |
+| *Homo neanderthalensis* | Neanderthal | 0.4 Mya | Extinct | — |
+| *Homo sapiens* | Modern human | 0.3 Mya | Extant | — |
 
-### 🖼️ Reconstructions
+**Concepts:** phylogeny and cladograms · geological time scale · common ancestry · extant and extinct lineages · hominid evolution · brain capacity · posture · skull morphology
 
-Each group has a body reconstruction and a skull image in the [`Evolution Assets`](Evolution%20Assets) folder.
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20Ape.png" alt="Miocene Ape reconstruction" width="100%">
-      <br><sub><b>Miocene Ape</b> · ~15 Mya</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Dryopithecus/Dryopithecus.png" alt="Dryopithecus reconstruction" width="100%">
-      <br><sub><b><i>Dryopithecus</i></b> · 12.5 Mya</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Sivapithechus/Sivapithecus.png" alt="Sivapithecus reconstruction" width="100%">
-      <br><sub><b><i>Sivapithecus</i></b> · 12.7 Mya</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20homonin.png" alt="Early Hominin Broad Lineage reconstruction" width="100%">
-      <br><sub><b>Early Hominin Broad Lineage</b> · 7 Mya</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Australopithecus/Australopithecus.png" alt="Australopithecus reconstruction" width="100%">
-      <br><sub><b><i>Australopithecus</i></b> · 4.2 Mya</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Homo%20Habilis/Homo%20Habilis.png" alt="Homo habilis reconstruction" width="100%">
-      <br><sub><b><i>Homo habilis</i></b> · 2.4 Mya</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Homo%20erectus/Homo%20Erectus%20.png" alt="Homo erectus reconstruction" width="100%">
-      <br><sub><b><i>Homo erectus</i></b> · 1.9 Mya</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis.png" alt="Homo neanderthalensis reconstruction" width="100%">
-      <br><sub><b><i>Homo neanderthalensis</i></b> · 0.4 Mya</sub>
-    </td>
-    <td width="33%" align="center">
-      <img src="Evolution%20Assets/Homo%20sapiens/Homo%20sapiens.png" alt="Homo sapiens reconstruction" width="100%">
-      <br><sub><b><i>Homo sapiens</i></b> · 0.3 Mya</sub>
-    </td>
-  </tr>
-</table>
-
-<sub>These images are illustrative. They are based on the oldest known or selected fossil record for each lineage, and do not show the exact organism at a branching point or a confirmed direct ancestor. The Miocene Ape card is labelled a fossil-based AI reconstruction.</sub>
-
----
-
-## 🗺️ Reading the Map
-
-The timeline runs **Past ← time → Present** from 23 Mya, split into the **Miocene** (23–5.3 Mya), **Pliocene** (5.3–2.6 Mya) and **Pleistocene / Holocene** (2.6 Mya to now).
-
-The tree shows these branches:
-
-- **Miocene Ape** → *Dryopithecus*, *Sivapithecus* and the **Early Hominin Broad Lineage**
-- **Early Hominin Broad Lineage** → *Australopithecus* and *Homo habilis*
-- *Homo habilis* → *Homo erectus*
-- *Homo erectus* → *Homo neanderthalensis* and *Homo sapiens*
+<details>
+<summary><b>Reading the map</b></summary>
 
 | Symbol | Meaning |
 |:--|:--|
-| 🟢 Green dot | **Extant**: living representatives |
-| † Inverted cross | **Extinct**: no living representatives |
-| † + 🟢 | **Extant + Extinct**: both living and extinct representatives |
-| ┈ Dotted link | An uncertain or broad relationship, **not confirmed direct ancestry** |
-| Coloured lineages | Dryopithecus (blue) · Sivapithecus (green) · Early Hominin Broad Lineage (amber) |
+| Green dot | Extant: living representatives |
+| Dagger (†) | Extinct: no living representatives |
+| Dagger + green dot | Both living and extinct representatives |
+| Dotted link | Uncertain or broad relationship, not confirmed direct ancestry |
+| Coloured lineage | *Dryopithecus* (blue) · *Sivapithecus* (green) · Early Hominin Broad Lineage (amber) |
 
-The legend can be collapsed.
+</details>
 
----
+<details>
+<summary><b>Profile cards</b></summary>
 
-## 🪪 Profile Cards
-
-Select an organism, then press **PROFILE CARD**. It opens in its own tab beside the cladogram, and you can close the tab with ×.
-
-| Section | What it shows |
+| Section | Contents |
 |:--|:--|
-| **Header** | Scientific name · status (Extant, Extinct or both) · taxonomic classification |
-| **Images** | Two images side by side: the reconstruction and its skull. The ⓘ button explains that they are illustrative. |
-| **Chrono Horizon** | A bar from when the group first appears (Mya) to its extinction, or to **Present** |
-| **Key facts** | Phylogenetic relative · Diet · Common name · Habitat |
-| **Distinguishing characters** | Key features, such as brain capacity, posture and skull shape |
+| Header | Scientific name · Status · Taxonomic classification |
+| Images | Reconstruction and skull, side by side; the info button explains they are representative |
+| Chrono Horizon | Bar from first appearance (Mya) to extinction or present |
+| Key facts | Phylogenetic relative · Diet · Common name · Habitat |
+| Distinguishing characters | Brain capacity, posture, skull shape and other key features |
 
-Press **EVOLUTION TRACK** with an organism selected to highlight its path of descent. Everything else fades.
+</details>
+
+<details>
+<summary><b>Reconstructions</b></summary>
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20Ape.png" alt="Miocene Ape" width="100%"><br><sub><b>Miocene Ape</b> · 15 Mya</sub></td>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Dryopithecus/Dryopithecus.png" alt="Dryopithecus" width="100%"><br><sub><b><i>Dryopithecus</i></b> · 12.5 Mya</sub></td>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Sivapithechus/Sivapithecus.png" alt="Sivapithecus" width="100%"><br><sub><b><i>Sivapithecus</i></b> · 12.7 Mya</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20homonin.png" alt="Early Hominin Broad Lineage" width="100%"><br><sub><b>Early Hominin</b> · 7 Mya</sub></td>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Australopithecus/Australopithecus.png" alt="Australopithecus" width="100%"><br><sub><b><i>Australopithecus</i></b> · 4.2 Mya</sub></td>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Homo%20Habilis/Homo%20Habilis.png" alt="Homo habilis" width="100%"><br><sub><b><i>Homo habilis</i></b> · 2.4 Mya</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Homo%20erectus/Homo%20Erectus%20.png" alt="Homo erectus" width="100%"><br><sub><b><i>Homo erectus</i></b> · 1.9 Mya</sub></td>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis.png" alt="Homo neanderthalensis" width="100%"><br><sub><b><i>H. neanderthalensis</i></b> · 0.4 Mya</sub></td>
+    <td width="33%" align="center"><img src="Evolution%20Assets/Homo%20sapiens/Homo%20sapiens.png" alt="Homo sapiens" width="100%"><br><sub><b><i>Homo sapiens</i></b> · 0.3 Mya</sub></td>
+  </tr>
+</table>
+
+Images are representative reconstructions based on the fossil record for each lineage, not the exact organism at a branching point or a confirmed direct ancestor. Body and skull images are in [`Evolution Assets`](Evolution%20Assets).
+
+</details>
 
 ---
 
-## 🧭 Navigation
+## Controls
 
-| Control | What it does |
+| Control | Function |
 |:--|:--|
-| 🔍 **Search** | Find an organism by name from a dropdown |
-| **Drag** | Pan the cladogram |
-| **Mouse wheel** or **＋ / －** | Zoom; the zoom level is shown as a percentage |
-| **Double-tap** or ↺ | Reset the view |
-| ◀ ▲ ▼ ▶ | Pan with buttons |
-| 🔒 | Lock or unlock pan and zoom |
-| 🧭 | Show or hide the zoom and pan controls |
-| ☀️ / 🌙 | Switch between light and dark themes (remembered) |
+| Drag · Mouse wheel or + / − | Pan · Zoom |
+| Search | Find an organism by name |
+| Profile Card · Evolution Track | Open an organism's card in a new tab · Highlight its line of descent |
+| Double-tap · Reset | Reset the view |
+| Arrow buttons · Lock · Compass | Pan by button · Lock pan and zoom · Show or hide zoom controls |
+| Sun / Moon | Light or dark theme (remembered) |
+
+<details>
+<summary><b>Developer tools</b></summary>
+
+| Tool | Function |
+|:--|:--|
+| Developer Mode | Hold the gear button for two seconds, then confirm |
+| Spawn Mode | Add, delete and label nodes; adjust the timeline (not with Developer Mode) |
+| Side panel | Lock nodes to the time scale, colour or isolate lineages, rename, move, set links solid or dotted |
+| Edit on a profile card | Change fields, images and Chrono Horizon dates |
+| Apply · Reset · Undo / Redo | Commit or revert edits (Ctrl+Z) |
+| Export JSON · Export HTML Snapshot | Save the layout or a self-contained page |
+| Autosave | Edits kept in this browser; restore or discard on the next visit |
+
+</details>
 
 ---
 
-## ⚙️ Developer Tools
+## Technology
 
-For people who know the cladogram's internal structure. These tools can change node positions, links, timeline values and profile data.
+HTML · CSS · JavaScript · No external libraries · Cloudflare Workers
 
-- **Developer Mode:** hold the gear button for two seconds, then confirm. Tap it again to turn it off.
-- **Spawn Mode** (the creature button): add or delete nodes, label a node, and adjust the timeline, with fine-tune sliders for position and label offsets. It cannot run together with Developer Mode.
-- **Side panel:** lock nodes to the geological scale, colour by branch (tap a swatch to isolate a lineage), rename a node, shift it vertically, move its label and set each link to solid or dotted.
-- **EDIT** on a profile card: change any field, the images and the Chrono Horizon dates.
-- **Apply changes · Reset · Undo and Redo** (Ctrl+Z), **Export JSON** and **Export HTML Snapshot**.
-- **Autosave:** edits are kept in your browser. On the next visit you can restore or discard them, and nothing is overwritten silently.
+<details>
+<summary><b>Project files</b></summary>
 
----
+| File | Contents |
+|:--|:--|
+| `index.html` | The complete app: structure, styling, logic and data |
+| `styles.css` · `script.js` | Read-only copies of the page's styles and scripts, for browsing; not loaded |
+| `Evolution Assets/` | Body and skull reconstructions for each lineage |
+| `assets/` | Banner and screenshots for this README |
 
-## 💻 Technology
-
-HTML · CSS · JavaScript (the whole app runs from `index.html`, with no external libraries)
-
-Fonts: IBM Plex Sans and IBM Plex Mono (Google Fonts)
-
-Database &amp; assets: GitHub, Codeberg · Hosting: Cloudflare Workers
+</details>
 
 ---
 
-## 📜 License
+## Credits
 
-Licensed under the **GNU General Public License v3.0** (see [LICENSE](LICENSE)).
+| Contributor | Role |
+|:--|:--|
+| **Sai Prasad**, M.Sc. Agri. Entomology, ASRB NET | Project Designer |
+| Claude Opus 5.5 | Development |
+| OpenAI GPT Luna 5.7 | Image Generation |
+| Perplexity Sonar 2 | Scientific Reasoning |
+| Replit | Code Improvisation | |
+
+<details>
+<summary><b>Fonts</b></summary>
+
+| Component | Licence |
+|:--|:--|
+| IBM Plex Sans · IBM Plex Mono | SIL Open Font License 1.1 |
+
+</details>
 
 ---
 
-<p align="center">
-  <b>Repository</b>: GitHub · Codeberg &nbsp;&nbsp;|&nbsp;&nbsp; <b>Hosting</b>: Cloudflare Workers
-</p>
+## Releases
+
+| Release | Title | Date |
+|:--|:--|:--|
+| RC II | Final Release | 17 Oct 2026 |
+| RC I | Initial Release | 15 Oct 2026 |
+
+---
+
+## License
+
+Source code: **GNU GPL-3.0** (see [LICENSE](LICENSE)).
+
+<p align="center"><sub>GitHub · Codeberg &nbsp;|&nbsp; Hosted on Cloudflare Workers</sub></p>
