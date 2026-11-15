@@ -76,8 +76,8 @@
           "status": "extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20Ape.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20ape.png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20Ape.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Early%20Myocine%20Ape/Early%20Myocene%20ape.png"
           ],
           "ancestor": "Other Miocene apes",
           "extinctionMya": 0
@@ -103,8 +103,8 @@
           "status": "extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Dryopithecus/Dryopithecus.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Dryopithecus/Dryopithecus%20(Skull).png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Dryopithecus/Dryopithecus.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Dryopithecus/Dryopithecus%20(Skull).png"
           ],
           "extinctionMya": 9.5,
           "ancestor": ""
@@ -130,8 +130,8 @@
           "status": "extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Sivapithechus/Sivapithecus.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Sivapithechus/Sivapithechus%20(Skull).png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Sivapithechus/Sivapithecus.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Sivapithechus/Sivapithechus%20(Skull).png"
           ],
           "extinctionMya": 8.5,
           "ancestor": "Orangutan evolutionary lineage"
@@ -157,8 +157,8 @@
           "status": "extant_extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20homonin.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20Homonin(Skull).png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20homonin.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Early%20Homonid%20Ancestor/Early%20Homonin(Skull).png"
           ],
           "extinctionMya": 0,
           "ancestor": "Miocene Ape\n(Distant Ancestor)"
@@ -184,8 +184,8 @@
           "status": "extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Australopithecus/Australopithecus.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Australopithecus/Australopithicus%20Skull.png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Australopithecus/Australopithecus.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Australopithecus/Australopithicus%20Skull.png"
           ],
           "extinctionMya": 2,
           "ancestor": ""
@@ -211,8 +211,8 @@
           "status": "extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20Habilis/Homo%20Habilis.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20Habilis/Homo%20Habilis%20(Skull).png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20Habilis/Homo%20Habilis.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20Habilis/Homo%20Habilis%20(Skull).png"
           ],
           "extinctionMya": 1.4,
           "ancestor": "Australopithecus"
@@ -238,8 +238,8 @@
           "status": "extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20erectus/Homo%20Erectus%20.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20erectus/Homo.erectus%20(Skull).png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20erectus/Homo%20Erectus%20.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20erectus/Homo.erectus%20(Skull).png"
           ],
           "extinctionMya": 0,
           "ancestor": ""
@@ -265,8 +265,8 @@
           "status": "extinct",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis%20(Skull).png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20neanderthanlensis/Homo%20neanderthalensis%20(Skull).png"
           ],
           "extinctionMya": 0.04,
           "ancestor": ""
@@ -292,8 +292,8 @@
           "status": "living",
           "emoji": "🦍",
           "images": [
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20sapiens/Homo%20sapiens.png",
-            "https://raw.githubusercontent.com/Dray-Ashcroft/Homnid-EvoGen/refs/heads/main/Evolution%20Assets/Homo%20sapiens/Homo%20sapiens%20(Skull).png"
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20sapiens/Homo%20sapiens.png",
+            "https://raw.githubusercontent.com/Dray-Ashcroft/Anthropix-Nexus/refs/heads/main/Evolution%20Assets/Homo%20sapiens/Homo%20sapiens%20(Skull).png"
           ],
           "extinctionMya": 0,
           "ancestor": "Neanderthal"
